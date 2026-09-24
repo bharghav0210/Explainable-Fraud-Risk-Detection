@@ -1,0 +1,4 @@
+amount,transaction_type,sender_balance_before,sender_balance_after,receiver_balance_before,receiver_balance_after,transactions_last_24h,minutes_since_last_transaction,account_age_days,device_trusted,location_match
+2500,PAYMENT,50000,47500,12000,14500,2,240,900,1,1
+185000,TRANSFER,190000,1000,500,185500,11,3,25,0,0
+42000,CASH_OUT,90000,48000,25000,67000,5,45,480,1,1
